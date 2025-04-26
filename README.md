@@ -40,9 +40,9 @@ ros2 launch intro_to_robotics_workshop_2025 workshop_launch.py
 
 ```
 
-<!-- In a new terminal run this command to move the robot until it is 3m away from its start position
+In a new terminal run this command to move the robot until it is 1m away from inserted the block
 
 ```
 ros2 run intro_to_robotics_workshop_2025 workshop_basic_node
 
-``` -->
+```
